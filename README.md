@@ -1,5 +1,5 @@
-# Mind Guess
-Mind Guess | Videogame | saturno2000
+# Mind Guess 1.0
+Mind Guess 1.0 | Videogame | saturno2000
 <br><br><br>
 It is a game which, in its first version 1.0 (which is currently in) can only be played from the cmd of the derogatory IDE.
 <br><br>

@@ -1,5 +1,5 @@
 # Mind Guess 1.0
-Mind Guess 1.0 | Videogame Open Source | saturno2000
+Mind Guess 1.0 | Videogame Open Source | GueDuAl
 <br><br>
 ![MindGuessLogo](resources/logo.jpg)
 <br><br>
